@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/database
+END
+activityDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/database/activityDao.class
+END
+UserDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/database/UserDao.class
+END
+Activity_Table.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/database/Activity_Table.class
+END
+DatebaseHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/database/DatebaseHandler.class
+END

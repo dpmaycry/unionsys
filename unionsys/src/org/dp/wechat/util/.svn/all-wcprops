@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/atp/yx/!svn/ver/2222/yx5/unionsys/src/org/dp/wechat/util
+END
+MessageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/util/MessageUtil.java
+END
+AdvancedUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/atp/yx/!svn/ver/1902/yx5/unionsys/src/org/dp/wechat/util/AdvancedUtil.java
+END
+CommonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/atp/yx/!svn/ver/2222/yx5/unionsys/src/org/dp/wechat/util/CommonUtil.java
+END
+MyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/util/MyX509TrustManager.java
+END
+SignUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/util/SignUtil.java
+END

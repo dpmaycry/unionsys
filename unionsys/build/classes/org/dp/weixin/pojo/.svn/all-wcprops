@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo
+END
+Button.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/Button.class
+END
+Scene.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/Scene.class
+END
+AccessToken.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/AccessToken.class
+END
+ComplexButton.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/ComplexButton.class
+END
+Ticket.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/Ticket.class
+END
+CommonButton.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/CommonButton.class
+END
+Menu.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/Menu.class
+END
+ViewButton.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/ViewButton.class
+END
+CreateTicket.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/CreateTicket.class
+END
+ActionInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/ActionInfo.class
+END
+UserInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/weixin/pojo/UserInfo.class
+END

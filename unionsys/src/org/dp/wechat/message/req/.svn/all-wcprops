@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/atp/yx/!svn/ver/1770/yx5/unionsys/src/org/dp/wechat/message/req
+END
+BaseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/req/BaseMessage.java
+END
+LinkMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/req/LinkMessage.java
+END
+ImageMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/req/ImageMessage.java
+END
+MassMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/1770/yx5/unionsys/src/org/dp/wechat/message/req/MassMessage.java
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/req/TextMessage.java
+END
+VoiceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/req/VoiceMessage.java
+END
+LocationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/req/LocationMessage.java
+END

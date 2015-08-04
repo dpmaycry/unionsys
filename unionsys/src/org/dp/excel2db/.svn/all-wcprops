@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/atp/yx/!svn/ver/2267/yx5/unionsys/src/org/dp/excel2db
+END
+SaveData2DB.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/atp/yx/!svn/ver/771/yx5/unionsys/src/org/dp/excel2db/SaveData2DB.java
+END
+DbUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/atp/yx/!svn/ver/1837/yx5/unionsys/src/org/dp/excel2db/DbUtil.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/atp/yx/!svn/ver/1649/yx5/unionsys/src/org/dp/excel2db/Member.java
+END
+Common.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/atp/yx/!svn/ver/1104/yx5/unionsys/src/org/dp/excel2db/Common.java
+END
+UploadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/atp/yx/!svn/ver/1104/yx5/unionsys/src/org/dp/excel2db/UploadServlet.java
+END
+MemberDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/atp/yx/!svn/ver/1649/yx5/unionsys/src/org/dp/excel2db/MemberDao.java
+END
+ReadExcel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/atp/yx/!svn/ver/2267/yx5/unionsys/src/org/dp/excel2db/ReadExcel.java
+END
+Excel2DBServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/atp/yx/!svn/ver/2008/yx5/unionsys/src/org/dp/excel2db/Excel2DBServlet.java
+END

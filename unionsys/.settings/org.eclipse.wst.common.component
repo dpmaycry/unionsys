@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="unionsys">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/unionsys"/>
+        <property name="java-output-path" value="/unionsys/build/classes"/>
+        <property name="context-root" value="unionsys"/>
+    </wb-module>
+</project-modules>

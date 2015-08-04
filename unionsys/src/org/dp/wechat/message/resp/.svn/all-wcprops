@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp
+END
+BaseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/BaseMessage.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/Music.java
+END
+NewsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/NewsMessage.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/Article.java
+END
+MusicMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/MusicMessage.java
+END
+ImageMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/ImageMessage.java
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/message/resp/TextMessage.java
+END

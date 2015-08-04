@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/atp/yx/!svn/ver/2296/yx5/unionsys/src/org/dp/wechat/servlet
+END
+AddInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/atp/yx/!svn/ver/2296/yx5/unionsys/src/org/dp/wechat/servlet/AddInfo.java
+END
+OAuthServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/atp/yx/!svn/ver/2227/yx5/unionsys/src/org/dp/wechat/servlet/OAuthServlet.java
+END
+OutputServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/atp/yx/!svn/ver/1903/yx5/unionsys/src/org/dp/wechat/servlet/OutputServlet.java
+END
+Erweima.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/atp/yx/!svn/ver/2245/yx5/unionsys/src/org/dp/wechat/servlet/Erweima.java
+END
+CoreServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/atp/yx/!svn/ver/1770/yx5/unionsys/src/org/dp/wechat/servlet/CoreServlet.java
+END
+HistoryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/atp/yx/!svn/ver/2296/yx5/unionsys/src/org/dp/wechat/servlet/HistoryInfo.java
+END
+JSSign.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/atp/yx/!svn/ver/1329/yx5/unionsys/src/org/dp/wechat/servlet/JSSign.java
+END
+CurrentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/atp/yx/!svn/ver/2296/yx5/unionsys/src/org/dp/wechat/servlet/CurrentInfo.java
+END

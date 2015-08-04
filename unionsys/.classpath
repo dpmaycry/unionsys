@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/fastjson-1.1.1.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/jackson-databind-2.2.0.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/log4j-adapter-1.0.0.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/weChat.jar"/>
+	<classpathentry kind="lib" path="unionsys/WEB-INF/lib/xstream-1.1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

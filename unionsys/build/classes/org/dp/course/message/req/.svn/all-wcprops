@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req
+END
+LocationMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req/LocationMessage.class
+END
+BaseMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req/BaseMessage.class
+END
+LinkMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req/LinkMessage.class
+END
+ImageMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req/ImageMessage.class
+END
+TextMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req/TextMessage.class
+END
+VoiceMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/atp/yx/!svn/ver/709/yx5/unionsys/build/classes/org/dp/course/message/req/VoiceMessage.class
+END
